@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=2B2D3D&height=200&section=header&text=BanYeah.&fontColor=000000&fontSize=64&stroke=BE95E4)
-<a href="https://github.com/BanYeah"><img align="center" style="height:165px" src="https://github-readme-stats.vercel.app/api?username=BanYeah&show_icons=true&include_all_commits=true&theme=material-palenight&hide_border=true" alt="BanYeah's github stats" /></a>
-<a href="https://github.com/BanYeah"><img align="center" style="height:165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BanYeah&layout=compact&theme=material-palenight&hide_border=true" /></a>
+<a href="https://github.com/BanYeah"><img align="center" style="height:175px" src="https://github-readme-stats.vercel.app/api?username=BanYeah&show_icons=true&include_all_commits=true&theme=material-palenight&hide_border=true" alt="BanYeah's github stats" /></a>
+<a href="https://github.com/BanYeah"><img align="center" style="height:175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BanYeah&layout=compact&theme=material-palenight&hide_border=true" /></a>
 </br>
 </br>
 </br>
